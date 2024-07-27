@@ -64,6 +64,11 @@ section{
     color: #81ec30;
 }
 
+.navbar-brand img{
+    width: 170px;
+    height: 50px;
+}
+
 
 /*Seccion Hero*/
 
